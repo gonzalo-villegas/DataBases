@@ -94,4 +94,5 @@ BEGIN
   SELECT * FROM modelo WHERE  id_modelo = @avion;
 END;
 
+--chalo estubo aqui
 
